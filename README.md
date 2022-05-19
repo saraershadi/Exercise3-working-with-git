@@ -9,8 +9,8 @@ https://github.com/saraershadi/Exercise3-working-with-git.git
 …or create a new repository on the command line
 
 echo "# poiuyuyt" >> README.md
-git init
-git add README.md
+// git init
+// git add README.md
 git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/saraershadi/Exercise3-working-with-git.git
