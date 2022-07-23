@@ -1,0 +1,14 @@
+Project Title :
+
+Separating the notes in a piece of music
+Using morphological operations
+
+student: Smaeil Feyzi seghi
+teacher: Dr. Ehsan Fazl Arthi
+
+Summary:
+      In this project, we intend to separate musical notes from guide lines by using morphological operations and their application.
+     As you may know, in writing music in the western way, notes are oval-like shapes that are placed between 5 lines, which are called the five carrier lines, and can be recognized based on their position in relation to these lines. What is the desired note?
+     A field called Optical Music Recognition, or OMR for short, tries to use computer vision to analyze the image of a given sheet of music and find its musical information.
+     Given the complexity and the sheer number of symbols on a sheet of music, this can be quite difficult, but as a first step, you can start by separating the notes from the lines.
+     The goal is to use morphological operations to identify the notes in a piece of music and draw a line around them.
